@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mario Remake</string>
+    <string name="title_activity_main">Mario Remake</string>
+    <string name="package_name">com.kienq.marioremake</string>
+    <string name="custom_url_scheme">com.kienq.marioremake</string>
+</resources>
